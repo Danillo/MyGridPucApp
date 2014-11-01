@@ -1,4 +1,4 @@
 MyGridPucApp
 ============
 
-Projeto do aplicativo Android.
+Projeto do aplicativo Android do MyGridPuc.
